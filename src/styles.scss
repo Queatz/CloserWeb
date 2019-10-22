@@ -1,1 +1,12 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css?family=Delius&display=swap');
+
+body {
+  font-family: 'Delius', sans;
+  background: #f0f0f0;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  color: inherit;
+}
